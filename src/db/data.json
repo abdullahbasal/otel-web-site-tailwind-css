@@ -1,0 +1,505 @@
+{
+  "otels": [
+    {
+      "id": 1,
+      "name": "Ramada",
+      "description": "Ramada Hotel Tarihçesiyle ünlü otel",
+      "city": "istanbul",
+      "price": 2800,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/yidid0bzlwp0jpb5wsxn.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Anemon",
+      "description": "Anemon Hotel Tarihçesiyle ünlü otel",
+      "city": "İstanbul",
+      "price": 2000,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/nkorfpebiseujfswnkrt.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cevahir",
+      "description": "Cevahir Hotel Tarihçesiyle ünlü otel",
+      "city": "İstanbul",
+      "price": 1500,
+      "currency": "₺",
+      "stars": "3",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/rmt0n2zpg7eievt0mnpy.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Avantgarde",
+      "description": "Avantgarde Hotel Tarihçesiyle ünlü otel",
+      "city": "istanbul",
+      "price": 2300,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/ljzjezzymrzozx2jcjat.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Park Dedeman",
+      "description": "Park Dedeman Hotel Tarihçesiyle ünlü otel",
+      "city": "istanbul",
+      "price": 1300,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/ZmlsZU5hbWU9cGFyay1kaXMtY2VwaGU_20231102183100.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Vespia",
+      "description": "Vespia Hotel Tarihçesiyle ünlü otel",
+      "city": "istanbul",
+      "price": 1450,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/y0loak4f1xsfziu1zjie.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Point Hotel",
+      "description": "Point Hotel Hotel Tarihçesiyle ünlü otel",
+      "city": "istanbul",
+      "price": 2500,
+      "currency": "₺",
+      "stars": "1",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/bckxwwa5gdwdzerftyuo.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Holiday Inn Istanbul",
+      "description": "Holiday Inn Istanbul Hotel Tarihçesiyle ünlü otel",
+      "city": "istanbul",
+      "price": 1300,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/ZmlsZU5hbWU9T3RlbC1EaXMtR29ydW51bQ_20230306114140.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Crowne Plaza",
+      "description": "Crowne Plaza Hotel Tarihçesiyle ünlü otel",
+      "city": "istanbul",
+      "price": 1900,
+      "currency": "₺",
+      "stars": "3",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/ZmlsZU5hbWU9Y3Jvd25lcGxhemFpc3RhbmJ1bGhhcmJpeWVkODIxYzZjNw_20220411091020.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Residence Inn by Marriott",
+      "description": "Residence Inn by Marriott Hotel Tarihçesiyle ünlü otel",
+      "city": "istanbul",
+      "price": 1000,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/ZmlsZU5hbWU9cnN6XzExcmlfaXN0cmlfZXh0ZXJpb3JfMV92Mg_20211106153918.jpg"
+    },
+
+    {
+      "id": 11,
+      "name": "CPAnkara",
+      "description": "CPAnkara Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 1100,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/pwbc9pwkybjoljx4j8t8.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ataköşk Group",
+      "description": "Ataköşk Group Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 1350,
+      "currency": "₺",
+      "stars": "2",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/ox10zehnrai6glxqeagz.jpg"
+    },
+    {
+      "id": 13,
+      "name": "The Green Park",
+      "description": "The Green Park Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 2800,
+      "currency": "₺",
+      "stars": "1",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/hgw2yfunjfzs4icmkhbm.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Etap Mola",
+      "description": "Etap Mola Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 1875,
+      "currency": "₺",
+      "stars": "3",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/Etap_Mola_Ankara_20231119113057_0.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Güvenay Business",
+      "description": "Güvenay Business Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 1255,
+      "currency": "₺",
+      "stars": "3",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/mi2a07hqhdgximyxlicr.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Occidental",
+      "description": "Occidental Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 2300,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/ZmlsZU5hbWU9V2hhdHNBcHAtSW1hZ2UtMjAyMi0wMy0yOC1hdC0xMC4yOS4yMA_20220719151001.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "The Wings",
+      "description": "The Wings Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 1400,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/ZmlsZU5hbWU9S2lycC0x_20220518124532.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Ankatra Boutique",
+      "description": "Ankatra Boutique Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 1550,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/xk5ziul1mz6gg4jq2u6v.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Bloom",
+      "description": "Bloom Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 2400,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/helpvl3lkc1feororlsp.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Büyükhanlı Park",
+      "description": "Büyükhanlı Park Hotel Tarihçesiyle ünlü otel",
+      "city": "ankara",
+      "price": 1300,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.odamax.com/img/1024x768/odamax/image/upload/nmm6iobgfhhbspdesufo.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Casa De Playa",
+      "description": "Casa De Playa Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 1200,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/93127/l/Casa-De-Playa-Hotel-Genel-313775.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Zigana Resort",
+      "description": "Zigana Resort Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 2800,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/92881/l/Zigana-Resort-Alacati-Genel-249008.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Onlive",
+      "description": "Onlive Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 1400,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/210288/l/On-live-Deluxe-Hotel-Genel-280783.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Cocos The Club Solto",
+      "description": "Cocos The Club Solto Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 1100,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/214179/l/Cocos-The-Club-Solto-Genel-312448.jpg"
+    },
+    {
+      "id": 25,
+      "name": "The D Hotel",
+      "description": "The D Hotel Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 2350,
+      "currency": "₺",
+      "stars": "3",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/54124/l/Best-Western-Plus-Cesme-Hotel-Genel-258224.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Swissotel Resort",
+      "description": "Swissotel Resort Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 5000,
+      "currency": "₺",
+      "stars": "2",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/220282/l/Swissotel-Resort---Spa-Cesme-Genel-380113.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Ladin",
+      "description": "Ladin Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 9000,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/test/TR/51008/l/1--DSC_0359.JPG"
+    },
+    {
+      "id": 28,
+      "name": "Le Monde Beach",
+      "description": "Le Monde Beach Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 5000,
+      "currency": "₺",
+      "stars": "1",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/92872/l/Le-Monde-Beach-Resort-Genel-356103.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Paloma Pasha",
+      "description": "Paloma Pasha Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 1400,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/51271/l/Paloma-Pasha-Genel-383328.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Kalinda Inn",
+      "description": "Kalinda Inn Hotel Tarihçesiyle ünlü otel",
+      "city": "izmir",
+      "price": 4000,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/50475/l/Kalinda-Inn-Genel-280496.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Titanic Luxury Collection",
+      "description": "Titanic Luxury Collection Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 2300,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/55548/l/Titanic-Luxury-Collection-Bodrum-Genel-369746.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Azka",
+      "description": "Azka Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 1400,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/54020/l/Azka-Hotel-Genel-352924.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Bendis Beach",
+      "description": "Bendis Beach Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 6500,
+      "currency": "₺",
+      "stars": "1",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/51924/l/Bendis-Beach-Hotel-Genel-192544.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Afytos Hotel",
+      "description": "Afytos Hotel Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 2700,
+      "currency": "₺",
+      "stars": "3",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/212473/l/Afytos-Hotel-Bodrum-Genel-293744.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Babana",
+      "description": "Babana Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 7000,
+      "currency": "₺",
+      "stars": "2",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/50410/l/Babana-Hotel-Genel-345757.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Butikhan Beach",
+      "description": "Butikhan Beach Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 4750,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/50616/l/Butik-Han-Otel-Yeme-Icme-297100.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Jiva Beach",
+      "description": "Jiva Beach Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 2500,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/51237/l/Jiva-Beach-Resort-Genel-388006.jpg"
+    },
+    {
+      "id": 38,
+      "name": "TUI BLUE Seno",
+      "description": "TUI BLUE Seno Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 1200,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/209816/l/TUI-SENSIMAR-Seno-Resort---Spa-Genel-273216.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Lugga Boutique",
+      "description": "Lugga Boutique Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 2500,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/51531/l/Lugga-Boutique-Hotel---Beach-Genel-325257.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Bitez Kassandra",
+      "description": "Bitez Kassandra Hotel Tarihçesiyle ünlü otel",
+      "city": "muğla",
+      "price": 2350,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/50639/l/Bitez-Kassandra-Hotel-Genel-284140.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Xanadu Island",
+      "description": "Xanadu Island Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 5000,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/50611/l/Xanadu-Island-Genel-307487.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Bodrum Holiday",
+      "description": "Bodrum Holiday Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 1400,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/92860/l/Bodrum-Holiday-Resort---Spa-Genel-373632.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Senses",
+      "description": "Senses Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 3000,
+      "currency": "₺",
+      "stars": "4",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/98779/l/Senses-Hotel-Genel-278056.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Mare Garden",
+      "description": "Mare Garden Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 2000,
+      "currency": "₺",
+      "stars": "1",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/214087/l/Mare-Garden-Otel-Genel-306447.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Elementa Boutique",
+      "description": "Elementa Boutique Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 2500,
+      "currency": "₺",
+      "stars": "3",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/50641/l/Elementa-Boutique-Hotel-Genel-314033.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Rammos",
+      "description": "Rammos Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 3250,
+      "currency": "₺",
+      "stars": "2",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/216375/l/Rammos-Hotel-Bodrum-Genel-346972.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Greenland",
+      "description": "Greenland Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 5000,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/51533/l/Greenland-Hotel-Genel-271239.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Katranci Park",
+      "description": "Katranci Park Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 1400,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/94854/l/Katranci-Park-Hotel-Genel-199405.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Telmessos Select",
+      "description": "Telmessos Select Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 4500,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/test/TR/52346/l/Acik-Havuz--1-.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Turunç Resort",
+      "description": "Turunç Resort Hotel Tarihçesiyle ünlü otel",
+      "city": "bodrum",
+      "price": 5500,
+      "currency": "₺",
+      "stars": "5",
+      "imgUrl": "https://images.etstur.com/imgproxy/files/images/hotelImages/TR/51693/l/Turunc-Resort-Otel-Genel-304650.jpg"
+    }
+  ]
+}
